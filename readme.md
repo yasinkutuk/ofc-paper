@@ -40,7 +40,9 @@ Kod snippet'i
 ```
 
 # Contact
-Yasin Kütük Associate Professor in Quantitative Techniques @ GTU
+Yasin Kütük 
+Associate Professor
+Quantitative Techniques @ GTU
 
 www.yasinkutuk.com
 
