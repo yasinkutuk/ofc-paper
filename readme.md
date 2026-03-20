@@ -40,10 +40,11 @@ Kod snippet'i
 ```
 
 # Contact
-Yasin Kütük 
+Yasin Kütük
 Associate Professor
 Quantitative Techniques @ GTU
 
 www.yasinkutuk.com
 
 GitHub: @yasinkutuk
+email: yasinkutuk(at){itu,gtu}.edu.tr
