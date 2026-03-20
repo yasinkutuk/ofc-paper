@@ -27,6 +27,9 @@ Bu depo, **Doç. Dr. Yasin Kütük** tarafından hazırlanan **Bir İktisatçıy
 Bu çalışmadaki kodları veya verileri araştırmanızda kullanırsanız, lütfen makaleye aşağıdaki şekilde atıf yapın:
 
 Kod snippet'i
+
+```bibtex
+
 @article{kutuk_ofc_paper,
   title={Bir İktisatçıya İstatistiksel Veda: Ömer Faruk Çolak’ın Köşe Yazılarının Metin Madenciliği},
   author={Kütük, Yasin},
@@ -34,6 +37,7 @@ Kod snippet'i
   journal={İktisat ve Toplum},
   url={https://github.com/yasinkutuk/ofc-paper}
 }
+```
 
 # Contact
 Yasin Kütük Associate Professor in Quantitative Techniques @ GTU
