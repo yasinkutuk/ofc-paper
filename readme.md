@@ -2,7 +2,7 @@
 
 Bu depo, **Doç. Dr. Yasin Kütük** tarafından hazırlanan **Bir İktisatçıya İstatistiksel Veda: Ömer Faruk Çolak’ın Köşe Yazılarının Metin Madenciliği** başlıklı çalışma için gerekli olan analiz kodlarını, veri işleme süreçlerini ve ek materyalleri içermektedir.
 
-## 📌 Proje Hakkında
+## Proje Hakkında
 `ofc-paper` deposu, makalede sunulan ekonometrik modellerin ve istatistiksel analizlerin yeniden üretilebilirliğini (reproducibility) sağlamak amacıyla oluşturulmuştur. Çalışma temel olarak iktisadi metin madenciliği konularına odaklanmaktadır.
 
 ---
@@ -15,7 +15,7 @@ Bu depo, **Doç. Dr. Yasin Kütük** tarafından hazırlanan **Bir İktisatçıy
 
 ---
 
-## 🚀 Başlangıç
+## Başlangıç
 1. **Depoyu yerel makinenize klonlayın:**
    ```bash
    git clone [https://github.com/yasinkutuk/ofc-paper.git](https://github.com/yasinkutuk/ofc-paper.git)
