@@ -15,8 +15,8 @@ Bu depo, **Doç. Dr. Yasin Kütük** tarafından hazırlanan **Bir İktisatçıy
 
 ---
 
-## Başlangıç
-1. **Depoyu yerel makinenize klonlayın:**
+## Yerel (bilgisayarınızda) Uygulama
+ **Depoyu yerel makinenize klonlayın:**
    ```bash
    git clone [https://github.com/yasinkutuk/ofc-paper.git](https://github.com/yasinkutuk/ofc-paper.git)
    ```
