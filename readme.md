@@ -7,7 +7,7 @@ Bu depo, **Doç. Dr. Yasin Kütük** tarafından hazırlanan **Bir İktisatçıy
 
 ---
 
-## 📂 Depo Yapısı
+## Depo Yapısı
 * `03.Data/`: Ham ve işlenmiş veri setleri (Lisans izin verdiği ölçüde).
 * `04.Meth/`: Veri temizleme, görselleştirme ve model tahminleme için kullanılan Python ve R kodları.
 * `05.Res/`: Analiz çıktıları, regresyon tabloları ve grafikler.
